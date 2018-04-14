@@ -7,11 +7,6 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## Translations
-[español](intl/es/README.md)  [français](intl/fr/FAQ-fr.md) [русский](intl/ru/README-ru.md)
-
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
-
 ## If you've decided to join:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
@@ -35,5 +30,5 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 ## Note
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Instagram: [@daru.app](https://instagram.com/daru.app)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
